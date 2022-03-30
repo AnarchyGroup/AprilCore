@@ -1,0 +1,3 @@
+name: Aprilcore
+version: '${version}'
+main: net.blockhost.aprilcore.AprilCore
